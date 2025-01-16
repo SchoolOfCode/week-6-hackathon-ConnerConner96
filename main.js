@@ -1,3 +1,9 @@
+// Room: Room 8
+// Name: Conner Adamsons
+// Link: REPLACE_ME_WITH_A_LINK_TO_YOUR_PUBLIC_GITHUB_REPO_CONTAINING_THE_KATA
+// Overview: This kata is designed to test your ability to manipulate strings and handle edge cases. You will need to write a function that takes a string as input and returns a new string with the first letter of each word capitalized. Good luck!
+
+
 
 // Welcome coders! Your challenge.. should you choose to accept it, is to write a function named 'uppercase' 
 // It should take a string as its input, and return the first letter of every word in that string as uppercase.
